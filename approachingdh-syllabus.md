@@ -167,8 +167,7 @@ Projects to Explore
 **5/8 -- Student presentations**
 
 **5/15 -- closing ceremonies** 
-
-**Assignment: Final Paper due May 18.**
+* **Assignment: Final Paper due May 18.**
 
 
 
