@@ -62,6 +62,7 @@ First-year students in the doctoral English program may use the Annotated Biblio
 * Hayles, N K. _How We Think: Digital Media and Contemporary Technogenesis_. Chicago: University Of Chicago Press, 2012. (selections)
 * Felski, Rita. _The Limits of Critique_, 2015. (selections)
 * Marcus, Sharon; Love, Heather; and Best, Stephen. "Building a Better Description." _Representations_, Vol. 135 No. 1, Summer 2016, pp. 1-21.
+* Christopher Castiglia. "Hope for Critique?" In _Critique and Postcritique_, Eds. Anker, Elizabeth S, and Rita Felski. Durham : Duke University Press, 2017. 
 * North, Joseph. _Literary Criticism: A Concise Political History_, 2017. (selections)
 * Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." _Blackwell Companion to Literary Theory_, Ed. David Richter. Forthcoming.
 
@@ -98,8 +99,8 @@ Projects to Explore
 * Heuser, Ryan and Le-Khac, Long. "Learning to Read Data: Bringing out the Humanistic in the Digital Humanities" _Victorian Studies_. Volume 54, Number 1, Autumn 2011 pp. 79-86
 * Rhody, Lisa M., "Topic Modeling and Figurative Language" _Journal of Digital Humanities_ Vol. 2, No. 1 Winter 2012. http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
 * Klein, Lauren F. "Distant Reading After Moretti." _Lauren F. Klein_. n.d. http://lklein.com/2018/01/distant-reading-after-moretti/
-* Ramsay, Stephen. "Humane Computation." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
-* McMillan Cottom, Tressie. "More Scale, More Questions: Observations from Sociology." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
+* Ramsay, Stephen. "Humane Computation." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/94
+* McMillan Cottom, Tressie. "More Scale, More Questions: Observations from Sociology." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/98
 * Bode, Katherine 2017, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1, pp. 77-106.
 * **ASSIGNMENT:** Explore a text or set of texts with <a href="http://voyant-tools.org/">Voyant</a> (easiest), <a href="http://benschmidt.org/projects/bookworm-info/">Bookworm</a>, <a href="http://mallet.cs.umass.edu/">MALLET</a>, or another text-mining tool. Blog about your experiences.
 
