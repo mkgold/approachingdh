@@ -16,7 +16,6 @@ Office hours: M 4pm-5pm and by appointment <br />
 Room 7301.14
 
 This course provides an encounter with the epistemological ground underlying the digital humanities (DH), asking how the use of technology in humanities contexts can offer new ways of knowing. The argument of the class is that technology is not simply an additive element to humanities inquiry, but rather that it can unsettle existing ways of thinking in ways that are both helpful and potentially troubling. Our emphasis will be on the various models of knowledge used in the digital humanities, and on the larger ramifications of those approaches for the field of literary studies in particular and the academy in general. Among the questions we will consider are: to what extent can hypothesis-driven computational inquiries help us make arguments about literary history? In what ways can quantitative text experiments avoid positivist forms of argumentation through the use of Dadaist or Oulipean models? To what extent can various DH approaches and methods be grounded in issues of race, class, gender, and sexuality? How can publication venues and review processes in the humanities account for and represent non-textual knowledge?
-
  
 Among the thematics we will explore are evidence, scale, representation, genre, quantification, and data. Though no previous technical skills are required, students will be asked to experiment in introductory ways with DH tools and methods as a way of concretizing some of our readings and discussions. Readings will include work by Johanna Drucker, Lauren Klein, Alan Liu, Ted Underwood, Tressie McMillan Cottom, Todd Presner, Stephen Ramsay, Kim Gallon, Andrew Piper, Andrew Goldstone, Tara McPherson, and others. 
 
@@ -31,29 +30,25 @@ DH skeptics are welcome. In lieu of the final paper, first-year students may wri
 * Regular Attendance
 * Completion of all course readings
 * Active classroom participation
-
-**4 Credit Requirements (ENGL 89500)**
-* Annotated Bibliography & Presentation (10 texts minimum)
 * Weekly Assignments as noted on syllabus
 * Blog Posts (3 over the course of the semester)
+
+**4 Credit Additional Requirements (ENGL 89500)**
+* Annotated Bibliography & Presentation (10 texts minimum)
 * Final Presentation
 * Final paper or project (20-25 pages)
 
-**2 Credit Requirements (ENGL 89500)**
-* Annotated Bibliography & Presentation (10 texts minimum)
-* Weekly Assignments as noted on syllabus
-* Blog Posts (3 over the course of the semester)
+**2 Credit and Auditor Additional Requirements (ENGL 89500)**
+* Annotated Bibliography & Presentation (5 texts minimum)
 
 **Notes:**
-Auditors are required to complete all assignments except for the Final Presentation and Final Paper.
-
 First-year students in the doctoral English program may use the Annotated Bibliography assignment as part of the portfolio they submit for the program’s First Exam. They may also choose to write a review essay for the first exam in lieu of the final seminar paper.
 
 **Grading**
 * Class Participation: 15%
-* Annotated Bibliography and Presentation: 15%
-* Blog posts and Weekly Assigments: 10%
-* Final Paper or Project: 60% 
+* Annotated Bibliography and Presentation: 5%
+* Blog posts and Weekly Assignments: 10%
+* Final Paper or Project: 70% 
 
 
 ## Schedule
@@ -61,14 +56,18 @@ First-year students in the doctoral English program may use the Annotated Biblio
 **1/30 -- Introduction to the class and to each other**
 
 **2/6 -- How we read and argue today.**
-* political history of literary criticism
-* felski
-* Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." Blackwell Companion to Literary Theory, Ed. David Richter. Forthcoming.
-* best/marcus
-* hayles
+
+* Best, Stephen and Marcus, Sharon. "Surface Reading: An Introduction." _Representations_ 108. Fall 2009.
+* Love, Heather. "Close but not Deep: Literary Ethics and the Descriptive Turn." _New Literary History_, Volume 41, Number 2, Spring 2010, pp. 371-391.
+* Rooney, Ellen. "Live Free or Describe: The Reading Effect and the Persistence of Form." _differences_ (2010) 21 (3): 112-139.
+* Hayles, N K. _How We Think: Digital Media and Contemporary Technogenesis_. Chicago: University Of Chicago Press, 2012. (selections)
+* Felski, Rita. _The Limits of Critique_, 2015. (selections)
+* Marcus, Sharon; Love, Heather; and Best, Stephen. "Building a Better Description." _Representations_, Vol. 135 No. 1, Summer 2016, pp. 1-21.
+* North, Joseph. _Literary Criticism: A Concise Political History_, 2017. (selections)
+* Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." _Blackwell Companion to Literary Theory_, Ed. David Richter. Forthcoming.
 
 **2/13 -- Representation and Enrichment -- digital editions**
-* McGann
+* McGann, Jerome. 
 * Theories of the digital edition
 * TEI
 * WW archive
@@ -95,6 +94,7 @@ Projects to explore
 * Klein
 * Clement
 * McMillan Cottom
+* Bode, Katherine 2017, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1, pp. 77-106.
 * **ASSIGNMENT: use a tool to topic-model a text or set of texts**
 
 **3/6 -- Exploration -- speculative/deformative reading**
@@ -105,10 +105,12 @@ Projects to explore
 * ASSIGNMENT: create a twitter bot
 
 **3/13 -- Modeling**
-* Docuscope
-* Gavin et al
-* Underwood
-* Piper
+* Witmore, Michael. "Text: A Massively Addressable Object." _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/28
+* Gavin, Michael; Jennings, Collin; Kersey, Lauren; and Pasanek, Brad. "Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading." _Debates in the Digital Humanities 2018_. (forthcoming)
+* Piper, Andrew "Think Small: On Literary Modeling." _PMLA_ 132.3 (2017): 651-658. 
+* So, Richard Jean. "All Models are Wrong." _PMLA_ Volume 132, Number 3, May 2017, pp. 668–673 (6). 
+* Armstrong, Nancy and Montag, Warren. “The Figure in the Carpet.” _PMLA_, Volume 132, Number 3, May 2017, pp. 613–619 (7) 
+* Rhody, Lisa Marie. "Beyond Darwinian Distance: Situating Distant Reading in a Feminist Ut Pictura Poesis Tradition." _PMLA_, Volume 132, Number 3, May 2017, pp. 659–667 (9).
 
 **3/20 -- Mapping (Heather Zuber visit)**
 * Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_
@@ -137,17 +139,19 @@ Projects to explore
 * Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
 * Ryan Cordell, "How Not to Teach Digital Humanities" -  http://dhdebates.gc.cuny.edu/debates/text/87
 
-**4/24 -- Infrastructure**
+**4/24 -- Infrastructure and Materiality**
 * Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” _Spheres 3: Unstable Infrastructures_. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
 * Brian Larkin, “The Politics and Poetics of Infrastructure.” _Annual Review of Anthropology_, Vol. 42, 2013, pp. 327-343.
 * Susan Leigh Star, "The Ethnography of Infrastructure." _American Behavioral Scientist_ 1999; 43; 377. -- https://www.imtfi.uci.edu/files/articles/Star.pdf
 * Alan Liu, “Drafts for Against the Cultural Singularity (book in progress).” _Alan Liu_, 2 May 2016. http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity
 * Benjamin Bratton, _The Stack_ (selections)
+* Matthew G. Kirschenbaum, _Mechanisms_ (selections)
+* Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. _Media Technologies: Essays on Communication, Materiality and Society_.  MIT Press: Cambridge MA, 2014.
 * **ASSIGNMENT:** Submit one-page final paper proposal**
 
-**5/1 -- Design, Memory, Media, Storage, Algorithm**
+**5/1 -- Visualization
+* Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." _American Literature_ (2013) 85 (4): 661-688.
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
-* Matthew G. Kirschenbaum, _Mechanisms_
 
 **5/8 -- Student presentations**
 
