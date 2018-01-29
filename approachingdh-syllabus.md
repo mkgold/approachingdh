@@ -91,6 +91,10 @@ Projects to explore
 * Underwood
 * Piper
 * Heuser et al
+* Rhody
+* Klein
+* Clement
+* McMillan Cottom
 * **ASSIGNMENT: use a tool to topic-model a text or set of texts**
 
 **3/6 -- Exploration -- speculative/deformative reading**
