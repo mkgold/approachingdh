@@ -99,13 +99,15 @@ Projects to explore
 
 **3/6 -- Exploration -- speculative/deformative reading**
 * Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
-* Joanna Drucker, SpecLab (selections)
-* Ramsay, Stephen, Reading Machines (selections)
-* McGann/Samuels
-* ASSIGNMENT: create a twitter bot
+* Drucker, Johanna. _Speclab: Digital Aesthetics and Projects in Speculative Computing_. Chicago: University of Chicago Press, 2009. (selections)
+* Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Urbana, Ill: University of Illinois Press, 2012. (selections)
+* Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” _New Literary History_ 30.1 (1999) : 25–56. 
+* Sample, Mark. "Notes towards a Deformed Humanities." _samplereality_ 2 May 2012. http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/
+* **ASSIGNMENT:** create a twitter bot using Patrick Smyth's guide: 
 
 **3/13 -- Modeling**
 * Witmore, Michael. "Text: A Massively Addressable Object." _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/28
+* Gavin, Michael. "Agent-Based Modeling and Historical Simulation." _Digital Humanities Quarterly_. Volume 8 Number 4 (2014). http://digitalhumanities.org:8081/dhq/vol/8/4/000195/000195.html
 * Gavin, Michael; Jennings, Collin; Kersey, Lauren; and Pasanek, Brad. "Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading." _Debates in the Digital Humanities 2018_. (forthcoming)
 * Piper, Andrew "Think Small: On Literary Modeling." _PMLA_ 132.3 (2017): 651-658. 
 * So, Richard Jean. "All Models are Wrong." _PMLA_ Volume 132, Number 3, May 2017, pp. 668–673 (6). 
