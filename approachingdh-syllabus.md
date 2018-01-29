@@ -66,9 +66,9 @@ First-year students in the doctoral English program may use the Annotated Biblio
 * North, Joseph. _Literary Criticism: A Concise Political History_, 2017. (selections)
 * Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." _Blackwell Companion to Literary Theory_, Ed. David Richter. Forthcoming.
 
-**2/13 -- Representation and Enrichment -- digital editions**
-* McGann, Jerome. 
-* Theories of the digital edition
+**2/13 -- REPRESENTATION and ENRICHMENT -- digital editions**
+* McGann, Jerome J. _A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction_. Harvard University Press, 2014. (selections)
+* Bryant, John. _The Fluid Text: A Theory of Revision and Editing for Book and Screen_. Ann Arbor: University of Michigan Press, 2005. (selections)
 * TEI
 * WW archive
 * Digital Harlem
@@ -85,7 +85,7 @@ Projects to explore
 
 **2/20 -- No class (Monday schedule)**
 
-**2/27 -- Experiment -- text-mining**
+**2/27 -- EXPERIMENT -- text-mining**
 * Jockers
 * Underwood, Ted. "A Genealogy of Distant Reading." _Digital Humanities Quarterly_. Volume 11 Number 2 (2017).
 * Goldstone, Andrew and Underwood, Ted. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us.” _New Literary History_ 45.3 (2014): 359-84. https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2
@@ -98,7 +98,7 @@ Projects to explore
 * Bode, Katherine 2017, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1, pp. 77-106.
 * **ASSIGNMENT:** Explore a text or set of texts with <a href="http://voyant-tools.org/">Voyant</a> (easiest), <a href="http://benschmidt.org/projects/bookworm-info/">Bookworm</a>, <a href="http://mallet.cs.umass.edu/">MALLET</a>, or another text-mining tool. Blog about your experiences.
 
-**3/6 -- Exploration -- speculative/deformative reading**
+**3/6 -- EXPLORATION -- speculative/deformative reading**
 * Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
 * Drucker, Johanna. _Speclab: Digital Aesthetics and Projects in Speculative Computing_. Chicago: University of Chicago Press, 2009. (selections)
 * Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Urbana, Ill: University of Illinois Press, 2012. (selections)
@@ -107,7 +107,7 @@ Projects to explore
 * Berkman, Natalie. "Digital Oulipo: Programming Potential Literature." _Digital Humanities Quarterly_. Volume 11 Number 3 (2017). http://digitalhumanities.org:8081/dhq/vol/11/3/000325/000325.html
 
 
-**3/13 -- Modeling**
+**3/13 -- MODELING**
 * Witmore, Michael. "Text: A Massively Addressable Object." _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/28
 * Gavin, Michael. "Agent-Based Modeling and Historical Simulation." _Digital Humanities Quarterly_. Volume 8 Number 4 (2014). http://digitalhumanities.org:8081/dhq/vol/8/4/000195/000195.html
 * Gavin, Michael; Jennings, Collin; Kersey, Lauren; and Pasanek, Brad. "Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading." _Debates in the Digital Humanities 2018_. (forthcoming)
@@ -116,7 +116,7 @@ Projects to explore
 * Armstrong, Nancy and Montag, Warren. “The Figure in the Carpet.” _PMLA_, Volume 132, Number 3, May 2017, pp. 613–619. 
 * Rhody, Lisa Marie. "Beyond Darwinian Distance: Situating Distant Reading in a Feminist Ut Pictura Poesis Tradition." _PMLA_, Volume 132, Number 3, May 2017, pp. 659–667.
 
-**3/20 -- Mapping (Heather Zuber visit)**
+**3/20 -- MAPPING (Heather Zuber visit)**
 * Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_
 * Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature"
 * Todd Pressner, _Hypercities_ (selections)
@@ -124,26 +124,27 @@ Projects to explore
 * **Assignment:** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
 
 **3/27 -- Stepping Back: Knowledge Models; Debates; Questions**
-* Todd Presner, "The Mangle of the Digital Humanities"
-* Andrew Pickering, The Mangle of Practice (introduction)
-* Alan Liu, "The Meaning of the Digital Humanities." PMLA, 128(2). https://escholarship.org/uc/item/5gc857tw#main
-* Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities" -- http://dhdebates.gc.cuny.edu/debates/text/11
-* Kim Gallon, "Making a Case for the Black Digital Humanities" http://dhdebates.gc.cuny.edu/debates/text/55
-* Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" -  http://dhdebates.gc.cuny.edu/debates/text/18
+* Todd Presner, "Critical Theory and The Mangle of Digital Humanities." In Svensson, Patrik, and David T. Goldberg. _Between Humanities and the Digital_. Cambridge, Massachusetts: The MIT Press, 2015: 55-68. 
+* Pickering, Andrew. The Mangle of Practice: Time, Agency, and Science. Chicago: University of Chicago Press, 2010. (introduction)
+* Alan Liu, "The Meaning of the Digital Humanities." _PMLA_, 128(2). https://escholarship.org/uc/item/5gc857tw#main
+* Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities." In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11
+* Kim Gallon, "Making a Case for the Black Digital Humanities." In In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
+* Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/18
 * **Assignment:** 3 page reflection paper due
 
 **4/3 -- No class (Spring break)**
 
-**4/10 -- Networked Scholarly Communications**
+**4/10 -- NETWORKS of Scholarly Communications**
 * Kathleen Fitzpatrick, _Planned Obsolescence_ (selections)
 * Kathleen Fitzpatrick, "Generous Thinking: Introduction" http://www.plannedobsolescence.net/generous-thinking-introduction/ 
 * Safiya Noble, _Algorithms of Oppression: How Search Engines Reinforce Racism_ (selections)
+* Kirschenbaum, Matthew G. "What is an @uthor?" _Los Angeles Review of Books_ 6 February 2015. http://lareviewofbooks.org/essay/uthor
 
-**4/17 -- Pedagogy**
+**4/17 -- PEDAGOGY**
 * Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
 * Ryan Cordell, "How Not to Teach Digital Humanities" -  http://dhdebates.gc.cuny.edu/debates/text/87
 
-**4/24 -- Infrastructure and Materiality**
+**4/24 -- INFRASTURUCTURE and MATERIALITY**
 * Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” _Spheres 3: Unstable Infrastructures_. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
 * Brian Larkin, “The Politics and Poetics of Infrastructure.” _Annual Review of Anthropology_, Vol. 42, 2013, pp. 327-343.
 * Susan Leigh Star, "The Ethnography of Infrastructure." _American Behavioral Scientist_ 1999; 43; 377. -- https://www.imtfi.uci.edu/files/articles/Star.pdf
@@ -153,7 +154,7 @@ Projects to explore
 * Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. _Media Technologies: Essays on Communication, Materiality and Society_.  MIT Press: Cambridge MA, 2014.
 * **ASSIGNMENT:** Submit one-page final paper proposal**
 
-**5/1 -- Visualization
+**5/1 -- VISUALIZATION**
 * Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." _American Literature_ (2013) 85 (4): 661-688.
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
 
