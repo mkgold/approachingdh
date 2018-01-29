@@ -1,10 +1,10 @@
 ---
-title: Approaching the Digital Humanities
-semester: Spring
-year: 2018
-program: English
-course number: ENGL 89500
-faculty: Matthew K. Gold
+Course Title: Approaching the Digital Humanities
+Semester: Spring
+Year: 2018
+Program: English
+Course Number: ENGL 89500
+Faculty: Matthew K. Gold
 ---
 
 
@@ -38,40 +38,44 @@ DH skeptics are welcome. In lieu of the final paper, first-year students may wri
 **Requirements (All Students)**
 * Regular Attendance
 * Completion of all course readings
-* Classroom participation
+* Active classroom participation
 
 **4 Credit Requirements (ENGL 89500)**
 * Annotated Bibliography & Presentation (10 texts minimum)
-* Cloud text experiment
+* Weekly Assignments as noted on syllabus
 * Blog Posts (4 over the course of the semester)
 * Final Presentation
 * Final paper or project (20-25 pages)
 
+**2 Credit Requirements (ENGL 89500)**
+* Annotated Bibliography & Presentation (10 texts minimum)
+* Weekly Assignments as noted on syllabus
+* Blog Posts (4 over the course of the semester)
+
 **Notes:**
 Auditors are required to complete all assignments except for the Final Presentation and Final Paper.
 
-Students in the doctoral English program may use the Annotated Bibliography assignment as part of the Portfolio they submit for the program’s First Exam. 
+First-year students in the doctoral English program may use the Annotated Bibliography assignment as part of the portfolio they submit for the program’s First Exam. They may also choose to write a review essay for the first exam in lieu of the final seminar paper.
 
 **Grading**
-* Class Participation: 20%
-* Annotated Bibliography and Presentation: 20%
-* Blog posts and Cloud Text Experiment: 10%
-* Final Paper or Project: 50% 
+* Class Participation: 15%
+* Annotated Bibliography and Presentation: 15%
+* Blog posts and Weekly Assigments: 10%
+* Final Paper or Project: 60% 
 
 
-## Schedule ##
+## Schedule
 
 **1/30 -- Introduction to the class and to each other**
 
-**2/6 -- How we read today.**
+**2/6 -- How we read and argue today.**
 * political history of literary criticism
 * felski
 * Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." Blackwell Companion to Literary Theory, Ed. David Richter. Forthcoming.
 * best/marcus
 * hayles
-* ASSIGNMENT: pick a journal article and analyze its rhetorical/epistemological moves. how does it approach knowledge in literary studies? 250-500 word blog post.
 
-2/13 -- Representation and Enrichment -- digital editions
+**2/13 -- Representation and Enrichment -- digital editions**
 * McGann
 * Theories of the digital edition
 * TEI
@@ -88,35 +92,36 @@ Projects to explore
 * The William Blake Archive: http://www.blakearchive.org/blake/
 * Dickinson Electronic Archive: http://www.emilydickinson.org/
 
-2/20 -- No class (Monday schedule)
+**2/20 -- No class (Monday schedule)**
 
-2/27 -- Experiment -- text-mining
+**2/27 -- Experiment -- text-mining**
 * Jockers
 * Underwood
 * Piper
 * Heuser et al
-* ASSIGNMENT: use a tool to topic-model a text or set of texts
+* **ASSIGNMENT: use a tool to topic-model a text or set of texts**
 
-3/6 -- Exploration -- speculative/deformative reading
+**3/6 -- Exploration -- speculative/deformative reading**
 * Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
 * Joanna Drucker, SpecLab (selections)
 * Ramsay, Stephen, Reading Machines (selections)
 * McGann/Samuels
 * ASSIGNMENT: create a twitter bot
 
-3/13 -- Modeling (Andrew dunn visit?)
+**3/13 -- Modeling**
 * Docuscope
 * Gavin et al
 * Underwood
 * Piper
 
-3/20 -- Mapping (Heather Zuber visit)
+**3/20 -- Mapping (Heather Zuber visit)**
 * Zuber, Introduction, 
 * Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature"
 * Todd Pressner, from Hypercities
 * Barbara Piatti; Hans Rudolf Bär; Anne-Kathrin Reuschel; Lorenz Hurni; and William Cartwright, Mapping Literature: Towards a Geography of Fiction
+* **ASSIGNMENT: create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project.**
 
-3/27 -- Stepping Back: Knowledge Models; Debates; Questions
+**3/27 -- Stepping Back: Knowledge Models; Debates; Questions**
 * Todd Presner, "The Mangle of the Digital Humanities"
 * Andrew Pickering, The Mangle of Practice (introduction)
 * Alan Liu, "The Meaning of the Digital Humanities." PMLA, 128(2). https://escholarship.org/uc/item/5gc857tw#main
@@ -125,59 +130,53 @@ Projects to explore
 * Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" -  http://dhdebates.gc.cuny.edu/debates/text/18
 * ASSIGNMENT -- short paper due
 
-4/3 -- No class (Spring break)
+**4/3 -- No class (Spring break)**
 
-4/10 -- Networked Scholarly Communications&nbsp;
-* Kathleen Fitzpatrick, Planned Obsolesence
+**4/10 -- Networked Scholarly Communications**
+* Kathleen Fitzpatrick, _Planned Obsolescence_ (selections)
+* Kathleen Fitzpatrick, "Generous Thinking: Introduction" http://www.plannedobsolescence.net/generous-thinking-introduction/ 
+* Safiya Noble, _Algorithms of Oppression: How Search Engines Reinforce Racism_ (selections)
 
-4/17 -- Pedagogy
-* Digital Pedagogy in the Humanities
+**4/17 -- Pedagogy**
+* Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
 * Ryan Cordell, "How Not to Teach Digital Humanities" -  http://dhdebates.gc.cuny.edu/debates/text/87
 
-4/24 -- Infrastructure
-* * Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” Spheres 3: Unstable Infrastructures. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
-* Brian Larkin, “The Politics and Poetics of Infrastructure.” Annual Review of Anthropology, Vol. 42, 2013, pp. 327-343.
-* Susan Leigh Star, "The Ethnography of Infrastructure." American Behavioral Scientist 1999; 43; 377. -- https://www.imtfi.uci.edu/files/articles/Star.pdf
-* Alan Liu, “Drafts for Against the Cultural Singularity (book in progress).” Alan Liu, 2 May 2016. http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity
-* Benjamin Bratton, The Stack (selections)
-* 
+**4/24 -- Infrastructure**
+* Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” _Spheres 3: Unstable Infrastructures_. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
+* Brian Larkin, “The Politics and Poetics of Infrastructure.” _Annual Review of Anthropology_, Vol. 42, 2013, pp. 327-343.
+* Susan Leigh Star, "The Ethnography of Infrastructure." _American Behavioral Scientist_ 1999; 43; 377. -- https://www.imtfi.uci.edu/files/articles/Star.pdf
+* Alan Liu, “Drafts for Against the Cultural Singularity (book in progress).” _Alan Liu_, 2 May 2016. http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity
+* Benjamin Bratton, _The Stack_ (selections)
+* **ASSIGNMENT: Submit one-page final paper proposal**
 
-5/1 -- Design, Memory, Media, Storage, Algorithm
+**5/1 -- Design, Memory, Media, Storage, Algorithm**
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
-* Kirschenbaum, Mechanisms
+* Matthew G. Kirschenbaum, _Mechanisms_
 
-5/8 -- Student presentations
+**5/8 -- Student presentations**
 
-5/15 
-* Final Paper due
+**5/15 -- closing ceremonies**
+**Final Paper due**
 
 
 
 ## Assignments ##
 
 **Annotated Bibliography & Presentation** <br />
-Sign up:  http://www.SignUpGenius.com/go/4090E4AAFA929A46-clouds <br />
-Choose a research topic related to the course and find texts (at least 5 for students in the 3-credit version of the course and at least 10 for students in the 4-credit version) related to it (articles or books count equally as a text. For each text, provide a bibliographical citation in MLA format and a 1-2 paragraph description of the text. Your description should gloss the argument/contribution of the text in question and should also explain its relevance to your research topic. Be sure to explore academic databases from the GC Library such as the MLA International Bibliography as you are doing research. For more on writing an annotated bibliography, please see this resource: http://guides.library.cornell.edu/annotatedbibliography.
+(Sign up coming soon) <br />
+Choose a research topic related to the course and find texts (at least 5 for students in the 2-credit version of the course and at least 10 for students in the 4-credit version) related to it (articles or books count equally as a text). For each text, provide a bibliographical citation in MLA format and a 1-2 paragraph description of the text. Your description should gloss the argument/contribution of the text in question and should also explain its relevance to your research topic. Be sure to explore academic databases from the GC Library such as the MLA International Bibliography as you are doing research. For more on writing an annotated bibliography, please see this resource: http://guides.library.cornell.edu/annotatedbibliography.
 
 Your annotated bibliography is due on the date of your presentation. It should be posted to our course blog in the “Annotated Bibliographies” category, tagged with terms related to your topic. In your presentation, you should introduce us to your research topic and walk us through the sources you’ve explored.
 
 **Blog Posts**<br />
-Create a post on our course blog related to our readings. You might provide a reaction to something we’ve read; share resources related to the course; or work through ideas related to our class discussions. For more on academic blogging, please consult this guide: http://twp.duke.edu/uploads/media_items/blogging-introduction.original.pdf 
-
-3 posts minimum required for 3-credit course number; 4 posts minimum required for 4-credit course number.
-
-**Cloud text experiment**<br />
-This assignment asks you to experiment and play, in some way, with a cloud-based writing system such as Twitter. You can create a twitterbot by following this guide by GC Digital Fellow Patrick Smyth - https://github.com/smythp/twitter-workshop, create a networked performance of some kind along the lines of Ian Bogost’s Bloomsday experiment -- http://bogost.com/writing/blog/bloomsday_on_twitter/, or do something else entirely. The goal here is to explore the affordances of cloud-based writing in some way, ideally inspired by our course readings. 
-
-Write a blog post on our course blog describing your experiment in the category “Cloud Text Experiments.” (note: this blog post is in addition to your other required blog posts)
-
+Create a post on our course blog related to our readings. You might provide a reaction to something we’ve read; share resources related to the course; or work through ideas related to our class discussions. For more on academic blogging, please consult this guide: http://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/blogging-introduction.original.pdf
 
 **Final Presentation**<br />
-On December 6, you will be asked to give a 5-7 minute presentation on your final paper project. You should introduce the class to the subject of your research and begin to describe the argument you are making in your paper. Not required of auditors.
+On May 8, you will be asked to give a 5-7 minute presentation on your final paper project. You should introduce the class to the subject of your research and begin to describe the argument you are making in your paper. Not required of auditors.
 
 **Final Paper or Project**<br />
-Your final paper (15-20 pages for 3-credit students, 20-25 pages for 4-credit students; not required of auditors) should explore a topic of research related to the course materials. You should submit a short (no more than one page) proposal about your topic on November 15. In your paper, focus particularly on your argument; discuss sources insofar as they help you advance your argument, but make sure that throughout the paper (and particularly in your transition sentences at the beginning of every paragraph), you are putting the focus on the argument you are trying to make.
+Your final paper (20-25 pages; not required of auditors or 2-credit students) should explore a topic of research related to the course materials. You should submit a short (no more than one page) proposal about your topic on April 24. In your paper, focus particularly on your argument; discuss sources insofar as they help you advance your argument, but make sure that throughout the paper (and particularly in your transition sentences at the beginning of every paragraph), you are putting the focus on the argument you are trying to make.
 
-Should you wish to create a digital project of some kind for this class rather than a final paper, please meet with Prof. Gold to discuss.
+Should you wish to create a digital project of some kind for this class rather than a final paper, please meet with Prof. Gold to discuss. First-year students in English may write a review essay in accordance with the guidelines for the First Exam in lieu of the final paper. https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English/Resources#III.B1 
 
 
