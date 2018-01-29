@@ -1,6 +1,6 @@
-## Draft in Progress
+### Draft in Progress
 
-# Approaching the Digital Humanities
+## Approaching the Digital Humanities
 Spring 2018<br />
 The Graduate Center, CUNY<br />
 ENGL 89500<br />
