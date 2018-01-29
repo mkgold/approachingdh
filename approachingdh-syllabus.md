@@ -1,14 +1,6 @@
----
-Course Title: Approaching the Digital Humanities
-Semester: Spring
-Year: 2018
-Program: English
-Course Number: ENGL 89500
-Faculty: Matthew K. Gold
----
+## Draft in Progress
 
-
-# APPROACHING THE DIGITAL HUMANITIES
+# Approaching the Digital Humanities
 Spring 2018<br />
 The Graduate Center, CUNY<br />
 ENGL 89500<br />
