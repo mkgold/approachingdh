@@ -111,7 +111,7 @@ Projects to explore
 * Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature"
 * Todd Pressner, _Hypercities_ (selections)
 * Barbara Piatti; Hans Rudolf Bär; Anne-Kathrin Reuschel; Lorenz Hurni; and William Cartwright, Mapping Literature: Towards a Geography of Fiction
-* **ASSIGNMENT:** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
+* **Assignment:** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
 
 **3/27 -- Stepping Back: Knowledge Models; Debates; Questions**
 * Todd Presner, "The Mangle of the Digital Humanities"
@@ -120,7 +120,7 @@ Projects to explore
 * Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities" -- http://dhdebates.gc.cuny.edu/debates/text/11
 * Kim Gallon, "Making a Case for the Black Digital Humanities" http://dhdebates.gc.cuny.edu/debates/text/55
 * Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" -  http://dhdebates.gc.cuny.edu/debates/text/18
-* ASSIGNMENT -- 3 page reflection paper due
+* **Assignment:** 3 page reflection paper due
 
 **4/3 -- No class (Spring break)**
 
@@ -139,7 +139,7 @@ Projects to explore
 * Susan Leigh Star, "The Ethnography of Infrastructure." _American Behavioral Scientist_ 1999; 43; 377. -- https://www.imtfi.uci.edu/files/articles/Star.pdf
 * Alan Liu, “Drafts for Against the Cultural Singularity (book in progress).” _Alan Liu_, 2 May 2016. http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity
 * Benjamin Bratton, _The Stack_ (selections)
-* **ASSIGNMENT: Submit one-page final paper proposal**
+* **ASSIGNMENT:** Submit one-page final paper proposal**
 
 **5/1 -- Design, Memory, Media, Storage, Algorithm**
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
@@ -148,7 +148,7 @@ Projects to explore
 **5/8 -- Student presentations**
 
 **5/15 -- closing ceremonies**
-**Final Paper due**
+**Assignment:** Final Paper due
 
 
 
