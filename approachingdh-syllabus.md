@@ -46,9 +46,9 @@ First-year students in the doctoral English program may use the Annotated Biblio
 
 **Grading**
 * Class Participation: 15%
-* Annotated Bibliography and Presentation: 5%
-* Blog posts and Weekly Assignments: 10%
-* Final Paper or Project: 70% 
+* Annotated Bibliography and Presentation: 10%
+* Blog posts and Weekly Assignments: 15%
+* Final Paper or Project: 60% 
 
 
 ## Schedule
@@ -56,7 +56,6 @@ First-year students in the doctoral English program may use the Annotated Biblio
 **1/30 -- Introduction to the class and to each other**
 
 **2/6 -- How we read and argue today.**
-
 * Best, Stephen and Marcus, Sharon. "Surface Reading: An Introduction." _Representations_ 108. Fall 2009.
 * Love, Heather. "Close but not Deep: Literary Ethics and the Descriptive Turn." _New Literary History_, Volume 41, Number 2, Spring 2010, pp. 371-391.
 * Rooney, Ellen. "Live Free or Describe: The Reading Effect and the Persistence of Form." _differences_ (2010) 21 (3): 112-139.
@@ -69,32 +68,38 @@ First-year students in the doctoral English program may use the Annotated Biblio
 **2/13 -- REPRESENTATION and ENRICHMENT -- digital editions**
 * McGann, Jerome J. _A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction_. Harvard University Press, 2014. (selections)
 * Bryant, John. _The Fluid Text: A Theory of Revision and Editing for Book and Screen_. Ann Arbor: University of Michigan Press, 2005. (selections)
-* TEI
-* WW archive
-* Digital Harlem
-* Soweto '76
+* Folsom, Ed. "Database as Genre: The Epic Transformation of Archives." _PMLA_, Volume 122, Number 5, October 2007, pp. 1571–1579
+* Amanda Gailey, "A Case for Heavy Editing: The Example of Race and Children’s Literature in the Gilded Age." _The American Literature Scholar in the Digital Age_, Eds. Earhart, Amy E, and Andrew Jewell. University of Michigan Press, 2011. http://quod.lib.umich.edu/cgi/t/text/idx/e/etlc/9362034.0001.001/1:4?g=dculture;rgn=div1;view=fulltext;xc=1#4.1
+* Earhart, Amy. "Can Information Be Unfettered? Race and the New Digital Humanities Canon." In _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/16
+* Julia Flanders, "Curation." _Digital Pedagogy in the Humanities_, Eds. Davis, Rebecca; Gold, Matthew K., Harris, Katherine; and Sayers, Jentery. Modern Language Association. Forthcoming. https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/curation.md
+* "Considering The Scholarly Edition In The Digital Age: A White Paper Of The Modern Language Association’s Committee On Scholarly Editions." MLA Committee on Scholarly Editions. 2 September 2015. https://scholarlyeditions.mla.hcommons.org/2015/09/02/cse-white-paper/
+* Siemens, Ray; Timney, Meagan; Leitch, Cara; Koolen, Corina; Garnett, Alex; et al. "Toward modeling the social edition: An approach to understanding the electronic scholarly edition in the context of new and emerging social media." _Literary and Linguistic Computing_, Volume 27, Issue 4, 1 December 2012, Pages 445–461.
 
-Projects to explore
-* Miriam Posner’s How Did They Make That: Scholarly Editions: http://miriamposner.com/blog/how-did-they-make-that/ - edition
+Projects to Explore
+* The Walt Whitman Archive -- https://whitmanarchive.org/
+* Soweto '76 3D (Angel Nieves) -- http://www.angeldavidnieves.com/research/soweto763d/
+* Infinite Ulysses (Amanda Visconti) -- http://infiniteulysses.com/
+* Online Chopin Variorum Edition -- http://www.chopinonline.ac.uk/
+* The Roaring Twenties -- http://vectorsdev.usc.edu/NYCsound/777b.html
 * Digital Thoreau (including both the Fluid-Text Edition and The Reader's Thoreau) - http://digitalthoreau.org/
 * Women Writers Project : http://www.wwp.northeastern.edu/research/publications/
 * WEB DuBois: http://www.webdubois.org/index.html
-* The Walt Whitman Archive: http://www.whitmanarchive.org/
 * The William Blake Archive: http://www.blakearchive.org/blake/
 * Dickinson Electronic Archive: http://www.emilydickinson.org/
+* Miriam Posner’s How Did They Make That: Scholarly Editions: http://miriamposner.com/blog/how-did-they-make-that/ 
 
 **2/20 -- No class (Monday schedule)**
 
 **2/27 -- EXPERIMENT -- text-mining**
-* Jockers
+* Jockers, Matthew L. _Macroanalysis: Digital Methods and Literary History_. Urbana, IL: University of Illinois Press, 2013. (selections)
 * Underwood, Ted. "A Genealogy of Distant Reading." _Digital Humanities Quarterly_. Volume 11 Number 2 (2017).
 * Goldstone, Andrew and Underwood, Ted. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us.” _New Literary History_ 45.3 (2014): 359-84. https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2
-* Piper
-* Heuser et al
-* Rhody
-* Klein
-* Clement
-* McMillan Cottom
+* Piper, Andrew. "Fictionality." _Journal of Cultural Analytics_. 20 December 2016. http://culturalanalytics.org/2016/12/fictionality/
+* Heuser, Ryan and Le-Khac, Long. "Learning to Read Data: Bringing out the Humanistic in the Digital Humanities" _Victorian Studies_. Volume 54, Number 1, Autumn 2011 pp. 79-86
+* Rhody, Lisa M., "Topic Modeling and Figurative Language" _Journal of Digital Humanities_ Vol. 2, No. 1 Winter 2012. http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
+* Klein, Lauren F. "Distant Reading After Moretti." _Lauren F. Klein_. n.d. http://lklein.com/2018/01/distant-reading-after-moretti/
+* Ramsay, Stephen. "Humane Computation." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
+* McMillan Cottom, Tressie. "More Scale, More Questions: Observations from Sociology." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
 * Bode, Katherine 2017, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1, pp. 77-106.
 * **ASSIGNMENT:** Explore a text or set of texts with <a href="http://voyant-tools.org/">Voyant</a> (easiest), <a href="http://benschmidt.org/projects/bookworm-info/">Bookworm</a>, <a href="http://mallet.cs.umass.edu/">MALLET</a>, or another text-mining tool. Blog about your experiences.
 
@@ -106,9 +111,8 @@ Projects to explore
 * Sample, Mark. "Notes towards a Deformed Humanities." _samplereality_ 2 May 2012. http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/
 * Berkman, Natalie. "Digital Oulipo: Programming Potential Literature." _Digital Humanities Quarterly_. Volume 11 Number 3 (2017). http://digitalhumanities.org:8081/dhq/vol/11/3/000325/000325.html
 
-
 **3/13 -- MODELING**
-* Witmore, Michael. "Text: A Massively Addressable Object." _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/28
+* Witmore, Michael. "Text: A Massively Addressable Object." In _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/28
 * Gavin, Michael. "Agent-Based Modeling and Historical Simulation." _Digital Humanities Quarterly_. Volume 8 Number 4 (2014). http://digitalhumanities.org:8081/dhq/vol/8/4/000195/000195.html
 * Gavin, Michael; Jennings, Collin; Kersey, Lauren; and Pasanek, Brad. "Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading." _Debates in the Digital Humanities 2018_. (forthcoming)
 * Piper, Andrew "Think Small: On Literary Modeling." _PMLA_ 132.3 (2017): 651-658. 
@@ -128,7 +132,7 @@ Projects to explore
 * Pickering, Andrew. The Mangle of Practice: Time, Agency, and Science. Chicago: University of Chicago Press, 2010. (introduction)
 * Alan Liu, "The Meaning of the Digital Humanities." _PMLA_, 128(2). https://escholarship.org/uc/item/5gc857tw#main
 * Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities." In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11
-* Kim Gallon, "Making a Case for the Black Digital Humanities." In In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
+* Kim Gallon, "Making a Case for the Black Digital Humanities." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
 * Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/18
 * **Assignment:** 3 page reflection paper due
 
@@ -143,6 +147,7 @@ Projects to explore
 **4/17 -- PEDAGOGY**
 * Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
 * Ryan Cordell, "How Not to Teach Digital Humanities" -  http://dhdebates.gc.cuny.edu/debates/text/87
+* Kate Singer, "Digital Close Reading: TEI for Teaching Poetic Vocabularies." _Journal of Interactive Technology and Pedagogy_. Issue 3: 15 May 2013. https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/
 
 **4/24 -- INFRASTURUCTURE and MATERIALITY**
 * Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” _Spheres 3: Unstable Infrastructures_. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
@@ -156,12 +161,13 @@ Projects to explore
 
 **5/1 -- VISUALIZATION**
 * Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." _American Literature_ (2013) 85 (4): 661-688.
+* Klein, Lauren F. "Visualization as Argument." _Lauren F. Klein_. n.d. http://lklein.com/2014/12/visualization-as-argument/
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
 
 **5/8 -- Student presentations**
 
 **5/15 -- closing ceremonies**
-**Assignment:** Final Paper due
+**Assignment: Final Paper due May 18.**
 
 
 
