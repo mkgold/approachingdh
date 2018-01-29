@@ -25,7 +25,7 @@ DH skeptics are welcome. In lieu of the final paper, first-year students may wri
 <a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#assignments">Assignments</a> <br />
 <a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#acknowledgements">Acknowledgements</a> <br />
 
-##Requirements##
+## Requirements# #
 **Requirements (All Students)**
 * Regular Attendance
 * Completion of all course readings
@@ -50,103 +50,101 @@ Students in the doctoral English program may use the Annotated Bibliography assi
 * Final Paper or Project: 50% 
 
 
-##Schedule##
+## Schedule ##
 
-8/30	Intro to the class and to each other<br />
-* Ryan S. Jeffery and Boaz Levin, “All That is Solid Melts into Data” (7 min clip) - http://spheres-journal.org/all-that-is-solid-melts-into-data/  
+** 1/30 -- Introduction to the class and to each other **
 
-9/6  	Cloud / **Futures**<br />
-* William Gibson, *The Peripheral* (first half)
+** 2/6 -- How we read today. **
+* political history of literary criticism
+* felski
+* Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." Blackwell Companion to Literary Theory, Ed. David Richter. Forthcoming.
+* best/marcus
+* hayles
+* ASSIGNMENT: pick a journal article and analyze its rhetorical/epistemological moves. how does it approach knowledge in literary studies? 250-500 word blog post.
 
-9/13 	  No Class Meeting (Prof. Gold Traveling)<br />
-Cloud / **Futures 2**<br />
-* William Gibson, *The Peripheral* (second half)
-* Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” Spheres 3: Unstable Infrastructures. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/ 
+2/13 -- Representation and Enrichment -- digital editions
+* McGann
+* Theories of the digital edition
+* TEI
+* WW archive
+* Digital Harlem
+* Soweto '76
 
-9/20	  Cloud / **Infrastructures 1**<br />
-* Tung-Hui Hu, *A Prehistory of the Cloud*
-* Brian Larkin, “The Politics and Poetics of Infrastructure.” *Annual Review of Anthropology*, Vol. 42, 2013, pp. 327-343.
+Projects to explore
+* Miriam Posner’s How Did They Make That: Scholarly Editions: http://miriamposner.com/blog/how-did-they-make-that/ - edition
+* Digital Thoreau (including both the Fluid-Text Edition and The Reader's Thoreau) - http://digitalthoreau.org/
+* Women Writers Project : http://www.wwp.northeastern.edu/research/publications/
+* WEB DuBois: http://www.webdubois.org/index.html
+* The Walt Whitman Archive: http://www.whitmanarchive.org/
+* The William Blake Archive: http://www.blakearchive.org/blake/
+* Dickinson Electronic Archive: http://www.emilydickinson.org/
 
-9/27	  Cloud /  **Infrastructures 2**<br />
-* Nicole Starosielski, “Fixed Flow: Undersea Cables as Media Instructure” 
-* Jennifer Holt and Patrick Vonderau, “‘Where the Internet Lives”: Data Centers” 
-* Shannon Mattern, “Deep Time of Media Infrastructure”
-* Orit Halpern, “Cloudy Architectures,” *continent* 4.3 (2015) http://www.continentcontinent.cc/index.php/continent/article/view/205 <br />
-*Recommended (not required)*<br />
-* Faisal Khan, “How are major undersea cables laid in the ocean?” *Quora*. https://www.quora.com/How-are-major-undersea-cables-laid-in-the-ocean?redirected_qid=2316974 
-* Neal Stephenson, “Mother Earth Mother Board.” *Wired*. 1 December 1996. http://www.wired.com/1996/12/ffglass/ 
+2/20 -- No class (Monday schedule)
 
-10/4 **No class (GC-wide)**
+2/27 -- Experiment -- text-mining
+* Jockers
+* Underwood
+* Piper
+* Heuser et al
+* ASSIGNMENT: use a tool to topic-model a text or set of texts
 
-10/11 **No class (GC-wide)**
+3/6 -- Exploration -- speculative/deformative reading
+* Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
+* Joanna Drucker, SpecLab (selections)
+* Ramsay, Stephen, Reading Machines (selections)
+* McGann/Samuels
+* ASSIGNMENT: create a twitter bot
 
-10/14 (FRI) Cloud / **Media** 
-* John Durham Peters, *The Marvelous Clouds* (selections)
-* Adrian Mackenzie, *Wirelessness* (selections)
-* Jane Bennett, *Vibrant Matter* (selections)
-* Bruno Latour, *Reassembling the Social* (selections)
-* Gilles Deleuze and Felix Guattari, *a thousand plateaus* (selections) 
+3/13 -- Modeling (Andrew dunn visit?)
+* Docuscope
+* Gavin et al
+* Underwood
+* Piper
 
-10/18 Cloud / **Environments**
-* Jennifer Gabrys, *Program Earth* (selections)
-* Nicole Starosielski and Janet Walker, Eds., *Sustainable Media* (selections)
- * Janet Walker and Nicole Starosielski, "Introduction"
- * Nicole Starosielski, "Pipeline Ecologies: Rural Entanglements of Fiber-Optic Cables"
- * Rahul Mukherjee, "Mediating Infrastructures: (Im)Mobile Toxicity and Cell Antenna Publics"
- * Jennifer Gabrys, "Re-thingfying the Internet of Things"
-* Sy Taffel, “Escaping Attention: Digital Media Hardware, Materiality And Ecological Cost.” Culture Machine, Vol 13 (2012). http://www.culturemachine.net/index.php/cm/article/view/468
-* Shannon Mattern, “Cloud and Field.” *Places*. August 2016. https://placesjournal.org/article/cloud-and-field/ 
+3/20 -- Mapping (Heather Zuber visit)
+* Zuber, Introduction, 
+* Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature"
+* Todd Pressner, from Hypercities
+* Barbara Piatti; Hans Rudolf Bär; Anne-Kathrin Reuschel; Lorenz Hurni; and William Cartwright, Mapping Literature: Towards a Geography of Fiction
 
-10/25 Cloud / **Sovereignties**
-* Benjamin H. Bratton, *The Stack* (selections)
-* Helga Tawil-Souri, “Cellular Borders: Dis/Connecting Phone Calls in Israel/Palestine” 
-* Boaz Levin and Ryan Jeffery, “Lost in the Cloud: The Representation of Networked Infrastructure and its Discontents.” Spheres 3. http://spheres-journal.org/lost-in-the-cloud-the-representation-of-networked-infrastructure-and-its-discontents-2/ 
-* Gilles Deleuze, "Postscript on the Societies of Control." *October*, Vol. 59 (Winter, 1992), pp. 3-7.
-* Finn Brunton and Helen Nissenbaum, *Obfuscation: A User's Guide for Privacy and Protest* (selections)
-      
-11/1  Cloud / **Labor**
-* Trebor Scholz, Ed., *Digital Labor: The Internet as Playground and Factory* (selections)
-* Karën Fort, "Amazon Mechanical Turk: Gold Mine or Coal Mine?" *American Journal of Computational Linguistics*. 2011. Vol 37, Issue 2: 413 -420
-* Hitlin, Paul. “Research in the Crowdsourcing Age, a Case Study.” Pew Research Center. July 2016. http://www.pewinternet.org/2016/07/11/research-in-the-crowdsourcing-age-a-case-study/
-* Andrew Russell, “Hail the Maintainers.” *Aeon*. 7 April 2016. https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more 
+3/27 -- Stepping Back: Knowledge Models; Debates; Questions
+* Todd Presner, "The Mangle of the Digital Humanities"
+* Andrew Pickering, The Mangle of Practice (introduction)
+* Alan Liu, "The Meaning of the Digital Humanities." PMLA, 128(2). https://escholarship.org/uc/item/5gc857tw#main
+* Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities" -- http://dhdebates.gc.cuny.edu/debates/text/11
+* Kim Gallon, "Making a Case for the Black Digital Humanities" http://dhdebates.gc.cuny.edu/debates/text/55
+* Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" -  http://dhdebates.gc.cuny.edu/debates/text/18
+* ASSIGNMENT -- short paper due
 
-11/8	Cloud / **Networks** <br />
-* Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics* (selections)
-* Alexander Galloway, *Protocol: How Control Exists After Decentralization* (selections)
-* Alexander Galloway and Eugene Thacker, *The Exploit: A Theory of Networks* (selections)
+4/3 -- No class (Spring break)
 
-11/15	  Cloud / **Infrastructures 3** <br />
-**Final paper proposal Due** <br />
-**SITE VISIT WITH ANDREW BLUM (Location TBD)** <br />
-* Kazys Varnelis, “Centripetal City,” *Cabinet* 17 (Spring 2004/5) 
-* Andrew Blum, Tubes (selections) 
-* Shannon Mattern. “Infrastructural Tourism.” *Places*. July 2013. https://placesjournal.org/article/infrastructural-tourism/ 
-* Burrington, Ingrid. *Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure*
-* Mendelsohn, Ben. “Bundled, Buried & Behind Closed Doors” https://vimeo.com/30642376
-* Emily S. Rueb and Eiko Ojala. “New York 101: Why are the streets always under construction?” New York Times. 18 August 2016. http://www.nytimes.com/interactive/2016/08/18/nyregion/new-york-101-streets-repair-and-maintenance.html 
+4/10 -- Networked Scholarly Communications&nbsp;
+* Kathleen Fitzpatrick, Planned Obsolesence
 
-11/22	      Cloud / **Writing** <br />
-**Cloud Text Experiment Due** <br />
-* Marjorie Perloff, *Unoriginal Genius* (selections)
-* Kenneth Goldsmith, *Uncreative Writing* (selections)
-* Mark Sample, “A protest bot is a bot so specific you can’t mistake it for bullshit: A Call for Bots of Conviction” https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.r95kew4fp 
-* Rob Dubbin, “The Rise Of Twitter Bots.” *The New Yorker*. 14 November 2013. http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots 
+4/17 -- Pedagogy
+* Digital Pedagogy in the Humanities
+* Ryan Cordell, "How Not to Teach Digital Humanities" -  http://dhdebates.gc.cuny.edu/debates/text/87
 
-11/29	Cloud / **Vision**
-* Jonathan Crary, *24/7* (selections)
-* Lorraine Daston, “Cloud Physiognomy.” *Representations*, Vol. 135 No. 1, Summer 2016; (pp. 45-71) 
-* Zach Blas, “Facial Recognition Suite.” *interventions*. 13 March 2014. https://interventionsjournal.net/2014/03/13/artist-project-facial-weaponization-suite/ 
-* Simone Browne, “Digital Epidermalization: Race, Identity and Biometrics.” *Critical Sociology*. January 2010. Issue 36: 131-150.
+4/24 -- Infrastructure
+* * Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” Spheres 3: Unstable Infrastructures. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
+* Brian Larkin, “The Politics and Poetics of Infrastructure.” Annual Review of Anthropology, Vol. 42, 2013, pp. 327-343.
+* Susan Leigh Star, "The Ethnography of Infrastructure." American Behavioral Scientist 1999; 43; 377. -- https://www.imtfi.uci.edu/files/articles/Star.pdf
+* Alan Liu, “Drafts for Against the Cultural Singularity (book in progress).” Alan Liu, 2 May 2016. http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity
+* Benjamin Bratton, The Stack (selections)
+* 
 
-12/6	**Final Presentations**
+5/1 -- Design, Memory, Media, Storage, Algorithm
+* Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+* Kirschenbaum, Mechanisms
 
-12/13	**No Class -- Reading Day**
+5/8 -- Student presentations
 
-12/20	**Final Papers Due**
+5/15 
+* Final Paper due
 
 
 
-##Assignments##
+## Assignments ##
 
 **Annotated Bibliography & Presentation** <br />
 Sign up:  http://www.SignUpGenius.com/go/4090E4AAFA929A46-clouds <br />
@@ -173,5 +171,4 @@ Your final paper (15-20 pages for 3-credit students, 20-25 pages for 4-credit st
 
 Should you wish to create a digital project of some kind for this class rather than a final paper, please meet with Prof. Gold to discuss.
 
-##Acknowledgements##
-I am grateful to Shannon Mattern and Matt Kirschenbaum for their suggestions on a draft version of this syllabus.
+
