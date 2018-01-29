@@ -87,7 +87,8 @@ Projects to explore
 
 **2/27 -- Experiment -- text-mining**
 * Jockers
-* Underwood
+* Underwood, Ted. "A Genealogy of Distant Reading." _Digital Humanities Quarterly_. Volume 11 Number 2 (2017).
+* Goldstone, Andrew and Underwood, Ted. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us.” _New Literary History_ 45.3 (2014): 359-84. https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2
 * Piper
 * Heuser et al
 * Rhody
@@ -95,7 +96,7 @@ Projects to explore
 * Clement
 * McMillan Cottom
 * Bode, Katherine 2017, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1, pp. 77-106.
-* **ASSIGNMENT: use a tool to topic-model a text or set of texts**
+* **ASSIGNMENT:** Explore a text or set of texts with <a href="http://voyant-tools.org/">Voyant</a> (easiest), <a href="http://benschmidt.org/projects/bookworm-info/">Bookworm</a>, <a href="http://mallet.cs.umass.edu/">MALLET</a>, or another text-mining tool. Blog about your experiences.
 
 **3/6 -- Exploration -- speculative/deformative reading**
 * Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
@@ -103,16 +104,17 @@ Projects to explore
 * Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Urbana, Ill: University of Illinois Press, 2012. (selections)
 * Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” _New Literary History_ 30.1 (1999) : 25–56. 
 * Sample, Mark. "Notes towards a Deformed Humanities." _samplereality_ 2 May 2012. http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/
-* **ASSIGNMENT:** create a twitter bot using Patrick Smyth's guide: 
+* Berkman, Natalie. "Digital Oulipo: Programming Potential Literature." _Digital Humanities Quarterly_. Volume 11 Number 3 (2017). http://digitalhumanities.org:8081/dhq/vol/11/3/000325/000325.html
+
 
 **3/13 -- Modeling**
 * Witmore, Michael. "Text: A Massively Addressable Object." _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/28
 * Gavin, Michael. "Agent-Based Modeling and Historical Simulation." _Digital Humanities Quarterly_. Volume 8 Number 4 (2014). http://digitalhumanities.org:8081/dhq/vol/8/4/000195/000195.html
 * Gavin, Michael; Jennings, Collin; Kersey, Lauren; and Pasanek, Brad. "Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading." _Debates in the Digital Humanities 2018_. (forthcoming)
 * Piper, Andrew "Think Small: On Literary Modeling." _PMLA_ 132.3 (2017): 651-658. 
-* So, Richard Jean. "All Models are Wrong." _PMLA_ Volume 132, Number 3, May 2017, pp. 668–673 (6). 
-* Armstrong, Nancy and Montag, Warren. “The Figure in the Carpet.” _PMLA_, Volume 132, Number 3, May 2017, pp. 613–619 (7) 
-* Rhody, Lisa Marie. "Beyond Darwinian Distance: Situating Distant Reading in a Feminist Ut Pictura Poesis Tradition." _PMLA_, Volume 132, Number 3, May 2017, pp. 659–667 (9).
+* So, Richard Jean. "All Models are Wrong." _PMLA_ Volume 132, Number 3, May 2017, pp. 668–673. 
+* Armstrong, Nancy and Montag, Warren. “The Figure in the Carpet.” _PMLA_, Volume 132, Number 3, May 2017, pp. 613–619. 
+* Rhody, Lisa Marie. "Beyond Darwinian Distance: Situating Distant Reading in a Feminist Ut Pictura Poesis Tradition." _PMLA_, Volume 132, Number 3, May 2017, pp. 659–667.
 
 **3/20 -- Mapping (Heather Zuber visit)**
 * Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_
