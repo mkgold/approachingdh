@@ -107,11 +107,11 @@ Projects to explore
 * Piper
 
 **3/20 -- Mapping (Heather Zuber visit)**
-* Zuber, Introduction, 
+* Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_
 * Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature"
-* Todd Pressner, from Hypercities
+* Todd Pressner, _Hypercities_ (selections)
 * Barbara Piatti; Hans Rudolf Bär; Anne-Kathrin Reuschel; Lorenz Hurni; and William Cartwright, Mapping Literature: Towards a Geography of Fiction
-* **ASSIGNMENT: create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project.**
+* **ASSIGNMENT:** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
 
 **3/27 -- Stepping Back: Knowledge Models; Debates; Questions**
 * Todd Presner, "The Mangle of the Digital Humanities"
