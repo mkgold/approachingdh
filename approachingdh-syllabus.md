@@ -35,14 +35,14 @@ DH skeptics are welcome. In lieu of the final paper, first-year students may wri
 **4 Credit Requirements (ENGL 89500)**
 * Annotated Bibliography & Presentation (10 texts minimum)
 * Weekly Assignments as noted on syllabus
-* Blog Posts (4 over the course of the semester)
+* Blog Posts (3 over the course of the semester)
 * Final Presentation
 * Final paper or project (20-25 pages)
 
 **2 Credit Requirements (ENGL 89500)**
 * Annotated Bibliography & Presentation (10 texts minimum)
 * Weekly Assignments as noted on syllabus
-* Blog Posts (4 over the course of the semester)
+* Blog Posts (3 over the course of the semester)
 
 **Notes:**
 Auditors are required to complete all assignments except for the Final Presentation and Final Paper.
@@ -120,7 +120,7 @@ Projects to explore
 * Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities" -- http://dhdebates.gc.cuny.edu/debates/text/11
 * Kim Gallon, "Making a Case for the Black Digital Humanities" http://dhdebates.gc.cuny.edu/debates/text/55
 * Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" -  http://dhdebates.gc.cuny.edu/debates/text/18
-* ASSIGNMENT -- short paper due
+* ASSIGNMENT -- 3 page reflection paper due
 
 **4/3 -- No class (Spring break)**
 
