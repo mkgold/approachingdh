@@ -1,4 +1,4 @@
-# APPROACHING THE DIGITAL HUMANITIES #
+# APPROACHING THE DIGITAL HUMANITIES
 Spring 2018<br />
 The Graduate Center, CUNY<br />
 ENGL 89500<br />
@@ -20,12 +20,11 @@ Among the thematics we will explore are evidence, scale, representation, genre, 
 
 DH skeptics are welcome. In lieu of the final paper, first-year students may write a review essay in preparation for the program's first exam.
 
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#requirements">Requirements</a> <br />
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#schedule">Schedule</a> <br />
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#assignments">Assignments</a> <br />
-<a href="https://github.com/mkgold/clouds/blob/master/cloud-syllabus.md#acknowledgements">Acknowledgements</a> <br />
+<a href="https://github.com/mkgold/approachingdh/blob/master/approachingdh-syllabus.md#requirements">Requirements</a> <br />
+<a href="https://github.com/mkgold/approachingdh/blob/master/approachingdh-syllabus.md#schedule">Schedule</a> <br />
+<a href="https://github.com/mkgold/approachingdh/blob/master/approachingdh-syllabus.md#assignments">Assignments</a> <br />
 
-## Requirements# #
+## Requirements
 **Requirements (All Students)**
 * Regular Attendance
 * Completion of all course readings
@@ -52,9 +51,9 @@ Students in the doctoral English program may use the Annotated Bibliography assi
 
 ## Schedule ##
 
-** 1/30 -- Introduction to the class and to each other **
+**1/30 -- Introduction to the class and to each other**
 
-** 2/6 -- How we read today. **
+**2/6 -- How we read today.**
 * political history of literary criticism
 * felski
 * Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." Blackwell Companion to Literary Theory, Ed. David Richter. Forthcoming.
