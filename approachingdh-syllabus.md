@@ -28,7 +28,7 @@ DH skeptics are welcome. In lieu of the final paper, first-year students may wri
 * Active classroom participation
 * Choose 1 of 2 praxis assignments
 * 3 page short paper
-* Blog Posts (at least 3 over the course of the semester)
+* Blog Posts (at least 2 over the course of the semester)
 
 **2 Credit and Auditor Additional Requirements (ENGL 89500)**
 * Annotated Bibliography & Presentation (5 texts minimum)
@@ -182,8 +182,14 @@ Choose a research topic related to the course and find texts (at least 5 for stu
 
 Your annotated bibliography is due on the date of your presentation. It should be posted to our course blog in the “Annotated Bibliographies” category, tagged with terms related to your topic. In your presentation, you should introduce us to your research topic and walk us through the sources you’ve explored.
 
+**Praxis Assignments**<br />
+Once during the semester, I will ask you to experiment with a hands-on activity that involves either mapping or text analysis. These exercises are meant to be beginner-level; my interest in having you complete them lies in getting you to do some early-stage computational/mapping work. Your results do not have to be necessarily significant or meaningful; the important thing is to engage the activity and gain a better understanding of the kinds of choices one must make when undertaking such a project. Please limit the amount of time you spend on this, and as you work through the assignment, keep in mind the kinds of epistemological and interpretative questions these methods help you ask, and how those questions differ from other modes of literary analysis.
+
 **Blog Posts**<br />
 Create a post on our course blog related to our readings. You might provide a reaction to something we’ve read; share resources related to the course; or work through ideas related to our class discussions. For more on academic blogging, please consult this guide: http://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/blogging-introduction.original.pdf
+
+**3 Page Reflection Paper**<br />
+Write a short three-page paper on a topic related to our course readings. My interest here is seeing you engage our readings in a critical way. Try to pick out key terms, phrases, and concepts from our readings and position your own thoughts within a wider set of arguments.
 
 **Final Presentation**<br />
 On May 8, you will be asked to give a 5-7 minute presentation on your final paper project. You should introduce the class to the subject of your research and begin to describe the argument you are making in your paper. Not required of auditors.
