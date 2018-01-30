@@ -61,6 +61,8 @@ First-year students in the doctoral English program may use the Annotated Biblio
 * Felski, Rita. _The Limits of Critique_, 2015. (selections)
 * Marcus, Sharon; Love, Heather; and Best, Stephen. "Building a Better Description." _Representations_, Vol. 135 No. 1, Summer 2016, pp. 1-21.
 * Christopher Castiglia. "Hope for Critique?" In _Critique and Postcritique_, Eds. Anker, Elizabeth S, and Rita Felski. Durham : Duke University Press, 2017. 
+
+_Recommended_
 * North, Joseph. _Literary Criticism: A Concise Political History_, 2017. (selections)
 * Buurma, Rachel Sagner and Matthew K. Gold. "Contemporary Proposals about Reading in the Digital Age." _Blackwell Companion to Literary Theory_, Ed. David Richter. Forthcoming.
 
@@ -68,11 +70,13 @@ First-year students in the doctoral English program may use the Annotated Biblio
 * McGann, Jerome J. _A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction_. Harvard University Press, 2014. (selections)
 * Bryant, John. _The Fluid Text: A Theory of Revision and Editing for Book and Screen_. Ann Arbor: University of Michigan Press, 2005. (selections)
 * Amanda Gailey, "A Case for Heavy Editing: The Example of Race and Children’s Literature in the Gilded Age." _The American Literature Scholar in the Digital Age_, Eds. Earhart, Amy E, and Andrew Jewell. University of Michigan Press, 2011. http://quod.lib.umich.edu/cgi/t/text/idx/e/etlc/9362034.0001.001/1:4?g=dculture;rgn=div1;view=fulltext;xc=1#4.1
-* Earhart, Amy. "Can Information Be Unfettered? Race and the New Digital Humanities Canon." In _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/16
 * Julia Flanders, "Curation." _Digital Pedagogy in the Humanities_, Eds. Davis, Rebecca; Gold, Matthew K., Harris, Katherine; and Sayers, Jentery. Modern Language Association. Forthcoming. https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/curation.md
 * "Considering The Scholarly Edition In The Digital Age: A White Paper Of The Modern Language Association’s Committee On Scholarly Editions." MLA Committee on Scholarly Editions. 2 September 2015. https://scholarlyeditions.mla.hcommons.org/2015/09/02/cse-white-paper/
 * Siemens, Ray; Timney, Meagan; Leitch, Cara; Koolen, Corina; Garnett, Alex; et al. "Toward modeling the social edition: An approach to understanding the electronic scholarly edition in the context of new and emerging social media." _Literary and Linguistic Computing_, Volume 27, Issue 4, 1 December 2012, Pages 445–461.
 * Gil, Alex. "The User, the Learner and the Machines We Make." _Minimal Computing_. 21 May 2015. https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/
+
+_Recommended_
+* Earhart, Amy. "Can Information Be Unfettered? Race and the New Digital Humanities Canon." In _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/16
 
 Projects to Explore
 * The Walt Whitman Archive -- https://whitmanarchive.org/
@@ -90,17 +94,19 @@ Projects to Explore
 **2/20 -- No class (Monday schedule)**
 
 **2/27 -- EXPERIMENT -- text-mining**
-* Jockers, Matthew L. _Macroanalysis: Digital Methods and Literary History_. Urbana, IL: University of Illinois Press, 2013. (selections)
 * Underwood, Ted. "A Genealogy of Distant Reading." _Digital Humanities Quarterly_. Volume 11 Number 2 (2017).
 * Goldstone, Andrew and Underwood, Ted. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us.” _New Literary History_ 45.3 (2014): 359-84. https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2
 * Piper, Andrew. "Fictionality." _Journal of Cultural Analytics_. 20 December 2016. http://culturalanalytics.org/2016/12/fictionality/
 * Heuser, Ryan and Le-Khac, Long. "Learning to Read Data: Bringing out the Humanistic in the Digital Humanities" _Victorian Studies_. Volume 54, Number 1, Autumn 2011 pp. 79-86
-* Rhody, Lisa M., "Topic Modeling and Figurative Language" _Journal of Digital Humanities_ Vol. 2, No. 1 Winter 2012. http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
 * Klein, Lauren F. "Distant Reading After Moretti." _Lauren F. Klein_. n.d. http://lklein.com/2018/01/distant-reading-after-moretti/
-* Ramsay, Stephen. "Humane Computation." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/94
 * McMillan Cottom, Tressie. "More Scale, More Questions: Observations from Sociology." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/98
-* Bode, Katherine 2017, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1, pp. 77-106.
+* Bode, Katherine, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1 (2017), pp. 77-106.
 * **PRAXIS ASSIGNMENT #2 (Choose 1 of 2):** Explore a text or set of texts with <a href="http://voyant-tools.org/">Voyant</a> (easiest), <a href="http://benschmidt.org/projects/bookworm-info/">Bookworm</a>, <a href="http://mallet.cs.umass.edu/">MALLET</a>, or another text-mining tool. Blog about your experiences.
+
+_Recommended_
+* Jockers, Matthew L. _Macroanalysis: Digital Methods and Literary History_. Urbana, IL: University of Illinois Press, 2013. (selections)
+* Rhody, Lisa M., "Topic Modeling and Figurative Language" _Journal of Digital Humanities_ Vol. 2, No. 1 Winter 2012. http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
+* Ramsay, Stephen. "Humane Computation." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/94
 
 **3/6 -- EXPLORATION -- speculative/deformative reading**
 * Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
@@ -123,7 +129,8 @@ Projects to Explore
 * Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_. Dissertation. The Graduate Center, CUNY, 2018.
 * Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities research through the Spatial Analysis of historical travel writing and topographical literature." _Digital Humanities Quarterly_. Volume 11 Number 1 (2017). http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html
 * Presner, Todd S, David Shepard, and Yoh Kawano. Hypercities: Thick Mapping in the Digital Humanities. Cambridge, Massachusetts: Harvard University Press, 2014. (selections)
-* Piatti, Barbara; Bär, Hans Rudolf; Reuschel, Anne-Kathrin; Hurni, Lorenz; and Cartwright, William. "Mapping Literature: Towards a Geography of Fiction." _Cartography and Art_, Eds. Cartwright, William; Gartner, Georg F; and Lehn, Antje.  http://www.literaturatlas.eu/files/2012/01/Piatti2008_ArtAndCartography_Springer.pdf
+* Piatti, Barbara; Bär, Hans Rudolf; Reuschel, Anne-Kathrin; Hurni, Lorenz; and Cartwright, William. "Mapping Literature: Towards a Geography of Fiction." _Cartography and Art_, Eds. Cartwright, William; Gartner, Georg F; and Lehn, Antje. http://www.literaturatlas.eu/files/2012/01/Piatti2008_ArtAndCartography_Springer.pdf
+* Monmonier, Mark S. _How to Lie with Maps_. Chicago : University of Chicago Press, 1996. (selections)
 * **PRAXIS ASSIGNMENT #2 (Choose 1 of 2)** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
 
 **3/27 -- Stepping Back: Knowledge Models; Debates; Questions**
@@ -139,16 +146,20 @@ Projects to Explore
 
 **4/10 -- NETWORKS of Scholarly Communications**
 * Kathleen Fitzpatrick, _Planned Obsolescence_ (selections)
-* Kathleen Fitzpatrick, "Generous Thinking: Introduction" http://www.plannedobsolescence.net/generous-thinking-introduction/ 
+* Kathleen Fitzpatrick, "Academia, Not Edu." _Planned Obsolescence_ 26 October 2016. http://www.plannedobsolescence.net/academia-not-edu/
+* Kathleen Fitzpatrick, "Networking the Field." _Planned Obsolescence_ 10 January 2012. http://www.plannedobsolescence.net/networking-the-field/
 * Safiya Noble, _Algorithms of Oppression: How Search Engines Reinforce Racism_ (selections)
 * Kirschenbaum, Matthew G. "What is an @uthor?" _Los Angeles Review of Books_ 6 February 2015. http://lareviewofbooks.org/essay/uthor
+* (a few more readings likely to be added)
 
 **4/17 -- PEDAGOGY**
 * Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
-* Ryan Cordell, "How Not to Teach Digital Humanities" -  http://dhdebates.gc.cuny.edu/debates/text/87
 * Kate Singer, "Digital Close Reading: TEI for Teaching Poetic Vocabularies." _Journal of Interactive Technology and Pedagogy_. Issue 3: 15 May 2013. https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/
-* Waltzer, Luke. "Digital Humanities and the “Ugly Stepchildren” of American Higher Education." In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/33
+* Waltzer, Luke. "Digital Humanities and the 'Ugly Stepchildren' of American Higher Education." In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/33
 * Gold, Matthew K. "Looking for Whitman: A Multi-Campus Experiment in Digital Pedagogy." In _Digital Humanities Pedagogy: Practices, Principles and Politics_, Ed. Brett D. Hirsch. Cambridge: Open Book Publishers, 2014. https://www.openbookpublishers.com/product.php/161/digital-humanities-pedagogy--practices--principles-and-politics?161/digital-humanities-pedagogy--practices--principles-and-politics
+* Fyfe, Paul. "Mid-Sized Digital Pedagogy." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/62
+* Ryan Cordell, "How Not to Teach Digital Humanities." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/87
+* Andrew Goldstone. "Teaching Quantitative Methods: What Makes It Hard (in Literary Studies)." In _Debates in the Digital Humanities 2018_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: University of Minnesota Press (forthcoming). https://andrewgoldstone.com/teaching-litdata.pdf
 
 **4/24 -- INFRASTURUCTURE and MATERIALITY**
 * Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” _Spheres 3: Unstable Infrastructures_. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
@@ -158,6 +169,7 @@ Projects to Explore
 * Benjamin Bratton, _The Stack_ (selections)
 * Kirschenbaum, Matthew G. _Mechanisms: New Media and the Forensic Imagination_. Cambridge: MIT University Press, 2012. (selections)
 * Kirschenbaum, Matthew G. "The .txtual Condition: Digital Humanities, Born-Digital Archives, and the Future Literary." _Digital Humanities Quarterly_ 7.1 (2013). http://digitalhumanities.org:8081/dhq/vol/7/1/000151/000151.html
+* Kirschenbaum, Matthew G. "Books After the Death of the Book." _Public Books_ 31 March 2017. http://www.publicbooks.org/books-after-the-death-of-the-book/
 * Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. _Media Technologies: Essays on Communication, Materiality and Society_.  MIT Press: Cambridge MA, 2014.
 * **ASSIGNMENT:** Submit one-page final paper proposal**
 
@@ -165,6 +177,8 @@ Projects to Explore
 * Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." _American Literature_ (2013) 85 (4): 661-688.
 * Klein, Lauren F. "Visualization as Argument." _Lauren F. Klein_. n.d. http://lklein.com/2014/12/visualization-as-argument/
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+* Manovich, Lev. "What is Visualization?" _Lev Manivoch_. (2010). http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf
+* (a few more readings likely to be added)
 
 **5/8 -- Student presentations**
 
@@ -173,7 +187,7 @@ Projects to Explore
 
 
 
-## Assignments ##
+## Assignments
 
 **Annotated Bibliography & Presentation** <br />
 (Sign up coming soon) <br />
