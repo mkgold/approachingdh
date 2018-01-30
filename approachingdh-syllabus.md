@@ -150,7 +150,7 @@ _Recommended_
 * Kathleen Fitzpatrick, "Networking the Field." _Planned Obsolescence_ 10 January 2012. http://www.plannedobsolescence.net/networking-the-field/
 * Safiya Noble, _Algorithms of Oppression: How Search Engines Reinforce Racism_ (selections)
 * Kirschenbaum, Matthew G. "What is an @uthor?" _Los Angeles Review of Books_ 6 February 2015. http://lareviewofbooks.org/essay/uthor
-* (a few more readings likely to be added)
+* a few more readings likely to be added
 
 **4/17 -- PEDAGOGY**
 * Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
@@ -178,7 +178,7 @@ _Recommended_
 * Klein, Lauren F. "Visualization as Argument." _Lauren F. Klein_. n.d. http://lklein.com/2014/12/visualization-as-argument/
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
 * Manovich, Lev. "What is Visualization?" (2010). http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf
-* (a few more readings likely to be added)
+* a few more readings likely to be added
 
 **5/8 -- Student presentations**
 
