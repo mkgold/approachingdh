@@ -1,5 +1,3 @@
-### Draft in Progress
-
 ## Approaching the Digital Humanities
 Spring 2018<br />
 The Graduate Center, CUNY<br />
@@ -15,31 +13,32 @@ mgold@gc.cuny.edu<br />
 Office hours: M 4pm-5pm and by appointment <br />
 Room 7301.14
 
+## Course Description
+
 This course provides an encounter with the epistemological ground underlying the digital humanities (DH), asking how the use of technology in humanities contexts can offer new ways of knowing. The argument of the class is that technology is not simply an additive element to humanities inquiry, but rather that it can unsettle existing ways of thinking in ways that are both helpful and potentially troubling. Our emphasis will be on the various models of knowledge used in the digital humanities, and on the larger ramifications of those approaches for the field of literary studies in particular and the academy in general. Among the questions we will consider are: to what extent can hypothesis-driven computational inquiries help us make arguments about literary history? In what ways can quantitative text experiments avoid positivist forms of argumentation through the use of Dadaist or Oulipean models? To what extent can various DH approaches and methods be grounded in issues of race, class, gender, and sexuality? How can publication venues and review processes in the humanities account for and represent non-textual knowledge?
  
 Among the thematics we will explore are evidence, scale, representation, genre, quantification, and data. Though no previous technical skills are required, students will be asked to experiment in introductory ways with DH tools and methods as a way of concretizing some of our readings and discussions. Readings will include work by Johanna Drucker, Lauren Klein, Alan Liu, Ted Underwood, Tressie McMillan Cottom, Todd Presner, Stephen Ramsay, Kim Gallon, Andrew Piper, Andrew Goldstone, Tara McPherson, and others. 
 
 DH skeptics are welcome. In lieu of the final paper, first-year students may write a review essay in preparation for the program's first exam.
 
-<a href="https://github.com/mkgold/approachingdh/blob/master/approachingdh-syllabus.md#requirements">Requirements</a> <br />
-<a href="https://github.com/mkgold/approachingdh/blob/master/approachingdh-syllabus.md#schedule">Schedule</a> <br />
-<a href="https://github.com/mkgold/approachingdh/blob/master/approachingdh-syllabus.md#assignments">Assignments</a> <br />
-
 ## Requirements
 **Requirements (All Students)**
 * Regular Attendance
 * Completion of all course readings
 * Active classroom participation
-* Weekly Assignments as noted on syllabus
-* Blog Posts (3 over the course of the semester)
-
-**4 Credit Additional Requirements (ENGL 89500)**
-* Annotated Bibliography & Presentation (10 texts minimum)
-* Final Presentation
-* Final paper or project (20-25 pages)
+* Choose 1 of 2 praxis assignments
+* 3 page short paper
+* Blog Posts (at least 3 over the course of the semester)
 
 **2 Credit and Auditor Additional Requirements (ENGL 89500)**
 * Annotated Bibliography & Presentation (5 texts minimum)
+
+**4 Credit Additional Requirements (ENGL 89500)**
+* Annotated Bibliography & Presentation (10 texts minimum)
+* 1 page final project proposal
+* Final Presentation
+* Final paper or project (20-25 pages)
+
 
 **Notes:**
 First-year students in the doctoral English program may use the Annotated Bibliography assignment as part of the portfolio they submit for the program’s First Exam. They may also choose to write a review essay for the first exam in lieu of the final seminar paper.
@@ -69,12 +68,12 @@ First-year students in the doctoral English program may use the Annotated Biblio
 **2/13 -- REPRESENTATION and ENRICHMENT -- digital editions**
 * McGann, Jerome J. _A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction_. Harvard University Press, 2014. (selections)
 * Bryant, John. _The Fluid Text: A Theory of Revision and Editing for Book and Screen_. Ann Arbor: University of Michigan Press, 2005. (selections)
-* Folsom, Ed. "Database as Genre: The Epic Transformation of Archives." _PMLA_, Volume 122, Number 5, October 2007, pp. 1571–1579
 * Amanda Gailey, "A Case for Heavy Editing: The Example of Race and Children’s Literature in the Gilded Age." _The American Literature Scholar in the Digital Age_, Eds. Earhart, Amy E, and Andrew Jewell. University of Michigan Press, 2011. http://quod.lib.umich.edu/cgi/t/text/idx/e/etlc/9362034.0001.001/1:4?g=dculture;rgn=div1;view=fulltext;xc=1#4.1
 * Earhart, Amy. "Can Information Be Unfettered? Race and the New Digital Humanities Canon." In _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/16
 * Julia Flanders, "Curation." _Digital Pedagogy in the Humanities_, Eds. Davis, Rebecca; Gold, Matthew K., Harris, Katherine; and Sayers, Jentery. Modern Language Association. Forthcoming. https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/curation.md
 * "Considering The Scholarly Edition In The Digital Age: A White Paper Of The Modern Language Association’s Committee On Scholarly Editions." MLA Committee on Scholarly Editions. 2 September 2015. https://scholarlyeditions.mla.hcommons.org/2015/09/02/cse-white-paper/
 * Siemens, Ray; Timney, Meagan; Leitch, Cara; Koolen, Corina; Garnett, Alex; et al. "Toward modeling the social edition: An approach to understanding the electronic scholarly edition in the context of new and emerging social media." _Literary and Linguistic Computing_, Volume 27, Issue 4, 1 December 2012, Pages 445–461.
+* Gil, Alex. "The User, the Learner and the Machines We Make." _Minimal Computing_. 21 May 2015. https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/
 
 Projects to Explore
 * The Walt Whitman Archive -- https://whitmanarchive.org/
@@ -102,7 +101,7 @@ Projects to Explore
 * Ramsay, Stephen. "Humane Computation." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/94
 * McMillan Cottom, Tressie. "More Scale, More Questions: Observations from Sociology." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/98
 * Bode, Katherine 2017, "The Equivalence of "Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." _Modern Language Quarterly_, vol. 78, no. 1, pp. 77-106.
-* **ASSIGNMENT:** Explore a text or set of texts with <a href="http://voyant-tools.org/">Voyant</a> (easiest), <a href="http://benschmidt.org/projects/bookworm-info/">Bookworm</a>, <a href="http://mallet.cs.umass.edu/">MALLET</a>, or another text-mining tool. Blog about your experiences.
+* **PRAXIS ASSIGNMENT #2 (Choose 1 of 2):** Explore a text or set of texts with <a href="http://voyant-tools.org/">Voyant</a> (easiest), <a href="http://benschmidt.org/projects/bookworm-info/">Bookworm</a>, <a href="http://mallet.cs.umass.edu/">MALLET</a>, or another text-mining tool. Blog about your experiences.
 
 **3/6 -- EXPLORATION -- speculative/deformative reading**
 * Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
@@ -122,15 +121,15 @@ Projects to Explore
 * Rhody, Lisa Marie. "Beyond Darwinian Distance: Situating Distant Reading in a Feminist Ut Pictura Poesis Tradition." _PMLA_, Volume 132, Number 3, May 2017, pp. 659–667.
 
 **3/20 -- MAPPING (Heather Zuber visit)**
-* Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_
-* Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature"
-* Todd Pressner, _Hypercities_ (selections)
-* Barbara Piatti; Hans Rudolf Bär; Anne-Kathrin Reuschel; Lorenz Hurni; and William Cartwright, Mapping Literature: Towards a Geography of Fiction
-* **Assignment:** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
+* Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_. Dissertation. The Graduate Center, CUNY, 2018.
+* Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities research through the Spatial Analysis of historical travel writing and topographical literature." _Digital Humanities Quarterly_. Volume 11 Number 1 (2017). http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html
+* Presner, Todd S, David Shepard, and Yoh Kawano. Hypercities: Thick Mapping in the Digital Humanities. Cambridge, Massachusetts: Harvard University Press, 2014. (selections)
+* Piatti, Barbara; Bär, Hans Rudolf; Reuschel, Anne-Kathrin; Hurni, Lorenz; and Cartwright, William. "Mapping Literature: Towards a Geography of Fiction." _Cartography and Art_, Eds. Cartwright, William; Gartner, Georg F; and Lehn, Antje.  http://www.literaturatlas.eu/files/2012/01/Piatti2008_ArtAndCartography_Springer.pdf
+* **PRAXIS ASSIGNMENT #2 (Choose 1 of 2)** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
 
 **3/27 -- Stepping Back: Knowledge Models; Debates; Questions**
 * Todd Presner, "Critical Theory and The Mangle of Digital Humanities." In Svensson, Patrik, and David T. Goldberg. _Between Humanities and the Digital_. Cambridge, Massachusetts: The MIT Press, 2015: 55-68. 
-* Pickering, Andrew. The Mangle of Practice: Time, Agency, and Science. Chicago: University of Chicago Press, 2010. (introduction)
+* Pickering, Andrew. _The Mangle of Practice: Time, Agency, and Science_. Chicago: University of Chicago Press, 2010. (introduction)
 * Alan Liu, "The Meaning of the Digital Humanities." _PMLA_, 128(2). https://escholarship.org/uc/item/5gc857tw#main
 * Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities." In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11
 * Kim Gallon, "Making a Case for the Black Digital Humanities." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
@@ -149,6 +148,8 @@ Projects to Explore
 * Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
 * Ryan Cordell, "How Not to Teach Digital Humanities" -  http://dhdebates.gc.cuny.edu/debates/text/87
 * Kate Singer, "Digital Close Reading: TEI for Teaching Poetic Vocabularies." _Journal of Interactive Technology and Pedagogy_. Issue 3: 15 May 2013. https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/
+* Waltzer, Luke. "Digital Humanities and the “Ugly Stepchildren” of American Higher Education." In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/33
+* Gold, Matthew K. "Looking for Whitman: A Multi-Campus Experiment in Digital Pedagogy." In _Digital Humanities Pedagogy: Practices, Principles and Politics_, Ed. Brett D. Hirsch. Cambridge: Open Book Publishers, 2014. https://www.openbookpublishers.com/product.php/161/digital-humanities-pedagogy--practices--principles-and-politics?161/digital-humanities-pedagogy--practices--principles-and-politics
 
 **4/24 -- INFRASTURUCTURE and MATERIALITY**
 * Shannon Mattern, “Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.” _Spheres 3: Unstable Infrastructures_. http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/
@@ -156,7 +157,7 @@ Projects to Explore
 * Susan Leigh Star, "The Ethnography of Infrastructure." _American Behavioral Scientist_ 1999; 43; 377. -- https://www.imtfi.uci.edu/files/articles/Star.pdf
 * Alan Liu, “Drafts for Against the Cultural Singularity (book in progress).” _Alan Liu_, 2 May 2016. http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity
 * Benjamin Bratton, _The Stack_ (selections)
-* Matthew G. Kirschenbaum, _Mechanisms_ (selections)
+* Kirschenbaum, Matthew G. _Mechanisms: New Media and the Forensic Imagination_. Cambridge: MIT University Press, 2012. (selections)
 * Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. _Media Technologies: Essays on Communication, Materiality and Society_.  MIT Press: Cambridge MA, 2014.
 * **ASSIGNMENT:** Submit one-page final paper proposal**
 
