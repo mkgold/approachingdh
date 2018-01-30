@@ -116,7 +116,7 @@ _Recommended_
 * Sample, Mark. "Notes towards a Deformed Humanities." _samplereality_ 2 May 2012. http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/
 * Berkman, Natalie. "Digital Oulipo: Programming Potential Literature." _Digital Humanities Quarterly_. Volume 11 Number 3 (2017). http://digitalhumanities.org:8081/dhq/vol/11/3/000325/000325.html
 
-**3/13 -- MODELING**
+**3/13 -- MODELING** (Andrew Dunn visit)
 * Witmore, Michael. "Text: A Massively Addressable Object." In _Debates in the Digital Humanities_, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. http://dhdebates.gc.cuny.edu/debates/text/28
 * Gavin, Michael. "Agent-Based Modeling and Historical Simulation." _Digital Humanities Quarterly_. Volume 8 Number 4 (2014). http://digitalhumanities.org:8081/dhq/vol/8/4/000195/000195.html
 * Gavin, Michael; Jennings, Collin; Kersey, Lauren; and Pasanek, Brad. "Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading." _Debates in the Digital Humanities 2018_. (forthcoming)
@@ -140,7 +140,7 @@ _Recommended_
 * Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities." In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11
 * Kim Gallon, "Making a Case for the Black Digital Humanities." In _Debates in the Digital Humanities 2016_, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/55
 * Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" In _Debates in the Digital Humanities_, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. http://dhdebates.gc.cuny.edu/debates/text/11 http://dhdebates.gc.cuny.edu/debates/text/18
-* **Assignment:** 3 page reflection paper due
+* **Assignment: 3 page reflection paper due**
 
 **4/3 -- No class (Spring break)**
 
@@ -171,7 +171,7 @@ _Recommended_
 * Kirschenbaum, Matthew G. "The .txtual Condition: Digital Humanities, Born-Digital Archives, and the Future Literary." _Digital Humanities Quarterly_ 7.1 (2013). http://digitalhumanities.org:8081/dhq/vol/7/1/000151/000151.html
 * Kirschenbaum, Matthew G. "Books After the Death of the Book." _Public Books_ 31 March 2017. http://www.publicbooks.org/books-after-the-death-of-the-book/
 * Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. _Media Technologies: Essays on Communication, Materiality and Society_.  MIT Press: Cambridge MA, 2014.
-* **ASSIGNMENT:** Submit one-page final paper proposal
+* **ASSIGNMENT: Submit one-page final paper proposal**
 
 **5/1 -- VISUALIZATION**
 * Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." _American Literature_ (2013) 85 (4): 661-688.
@@ -183,7 +183,7 @@ _Recommended_
 **5/8 -- Student presentations**
 
 **5/15 -- closing ceremonies** 
-* **Assignment: Final Paper due May 18.**
+* **ASSIGNMENT: Final Paper due May 18.**
 
 
 
