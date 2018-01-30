@@ -6,9 +6,8 @@ ENGL 89500<br />
 Room 3309<br />
 http://cuny.is/approachingdh <br />
 
-Dr. Matthew K. Gold<br />
-http://mkgold.net <br />
-mgold@gc.cuny.edu<br />
+[Dr. Matthew K. Gold](http://mkgold.net)<br />
+[mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu)<br />
 (212) 817-7256<br />
 Office hours: M 4pm-5pm and by appointment <br />
 Room 7301.14
