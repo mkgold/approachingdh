@@ -158,6 +158,7 @@ Projects to Explore
 * Alan Liu, “Drafts for Against the Cultural Singularity (book in progress).” _Alan Liu_, 2 May 2016. http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity
 * Benjamin Bratton, _The Stack_ (selections)
 * Kirschenbaum, Matthew G. _Mechanisms: New Media and the Forensic Imagination_. Cambridge: MIT University Press, 2012. (selections)
+* Kirschenbaum, Matthew G. "The .txtual Condition: Digital Humanities, Born-Digital Archives, and the Future Literary." _Digital Humanities Quarterly_ 7.1 (2013). http://digitalhumanities.org:8081/dhq/vol/7/1/000151/000151.html
 * Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. _Media Technologies: Essays on Communication, Materiality and Society_.  MIT Press: Cambridge MA, 2014.
 * **ASSIGNMENT:** Submit one-page final paper proposal**
 
