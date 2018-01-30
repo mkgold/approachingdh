@@ -171,13 +171,13 @@ _Recommended_
 * Kirschenbaum, Matthew G. "The .txtual Condition: Digital Humanities, Born-Digital Archives, and the Future Literary." _Digital Humanities Quarterly_ 7.1 (2013). http://digitalhumanities.org:8081/dhq/vol/7/1/000151/000151.html
 * Kirschenbaum, Matthew G. "Books After the Death of the Book." _Public Books_ 31 March 2017. http://www.publicbooks.org/books-after-the-death-of-the-book/
 * Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. _Media Technologies: Essays on Communication, Materiality and Society_.  MIT Press: Cambridge MA, 2014.
-* **ASSIGNMENT:** Submit one-page final paper proposal**
+* **ASSIGNMENT:** Submit one-page final paper proposal
 
 **5/1 -- VISUALIZATION**
 * Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." _American Literature_ (2013) 85 (4): 661-688.
 * Klein, Lauren F. "Visualization as Argument." _Lauren F. Klein_. n.d. http://lklein.com/2014/12/visualization-as-argument/
 * Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
-* Manovich, Lev. "What is Visualization?" _Lev Manivoch_. (2010). http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf
+* Manovich, Lev. "What is Visualization?" (2010). http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf
 * (a few more readings likely to be added)
 
 **5/8 -- Student presentations**
@@ -187,7 +187,7 @@ _Recommended_
 
 
 
-## Assignments
+## Assignments ##
 
 **Annotated Bibliography & Presentation** <br />
 (Sign up coming soon) <br />
