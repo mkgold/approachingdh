@@ -125,13 +125,13 @@ _Recommended_
 * Armstrong, Nancy and Montag, Warren. “The Figure in the Carpet.” _PMLA_, Volume 132, Number 3, May 2017, pp. 613–619. 
 * Rhody, Lisa Marie. "Beyond Darwinian Distance: Situating Distant Reading in a Feminist Ut Pictura Poesis Tradition." _PMLA_, Volume 132, Number 3, May 2017, pp. 659–667.
 
-**3/20 -- MAPPING (Heather Zuber visit)**
-* Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_. Dissertation. The Graduate Center, CUNY, 2018.
-* Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities research through the Spatial Analysis of historical travel writing and topographical literature." _Digital Humanities Quarterly_. Volume 11 Number 1 (2017). http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html
-* Presner, Todd S, David Shepard, and Yoh Kawano. Hypercities: Thick Mapping in the Digital Humanities. Cambridge, Massachusetts: Harvard University Press, 2014. (selections)
-* Piatti, Barbara; Bär, Hans Rudolf; Reuschel, Anne-Kathrin; Hurni, Lorenz; and Cartwright, William. "Mapping Literature: Towards a Geography of Fiction." _Cartography and Art_, Eds. Cartwright, William; Gartner, Georg F; and Lehn, Antje. http://www.literaturatlas.eu/files/2012/01/Piatti2008_ArtAndCartography_Springer.pdf
-* Monmonier, Mark S. _How to Lie with Maps_. Chicago : University of Chicago Press, 1996. (selections)
-* **PRAXIS ASSIGNMENT #2 (Choose 1 of 2)** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
+**3/20 -- NETWORKS of Scholarly Communications**
+* Kathleen Fitzpatrick, _Planned Obsolescence_ (selections)
+* Kathleen Fitzpatrick, "Academia, Not Edu." _Planned Obsolescence_ 26 October 2016. http://www.plannedobsolescence.net/academia-not-edu/
+* Kathleen Fitzpatrick, "Networking the Field." _Planned Obsolescence_ 10 January 2012. http://www.plannedobsolescence.net/networking-the-field/
+* Safiya Noble, _Algorithms of Oppression: How Search Engines Reinforce Racism_ (selections)
+* Kirschenbaum, Matthew G. "What is an @uthor?" _Los Angeles Review of Books_ 6 February 2015. http://lareviewofbooks.org/essay/uthor
+* a few more readings likely to be added
 
 **3/27 -- Stepping Back: Knowledge Models; Debates; Questions**
 * Todd Presner, "Critical Theory and The Mangle of Digital Humanities." In Svensson, Patrik, and David T. Goldberg. _Between Humanities and the Digital_. Cambridge, Massachusetts: The MIT Press, 2015: 55-68. 
@@ -144,13 +144,14 @@ _Recommended_
 
 **4/3 -- No class (Spring break)**
 
-**4/10 -- NETWORKS of Scholarly Communications**
-* Kathleen Fitzpatrick, _Planned Obsolescence_ (selections)
-* Kathleen Fitzpatrick, "Academia, Not Edu." _Planned Obsolescence_ 26 October 2016. http://www.plannedobsolescence.net/academia-not-edu/
-* Kathleen Fitzpatrick, "Networking the Field." _Planned Obsolescence_ 10 January 2012. http://www.plannedobsolescence.net/networking-the-field/
-* Safiya Noble, _Algorithms of Oppression: How Search Engines Reinforce Racism_ (selections)
-* Kirschenbaum, Matthew G. "What is an @uthor?" _Los Angeles Review of Books_ 6 February 2015. http://lareviewofbooks.org/essay/uthor
-* a few more readings likely to be added
+**4/10 -- MAPPING (Heather Zuber visit)**
+* Heather Zuber, Introduction, _How and Where to Make a Fortune: Mapping the Fictions of Economic Mobility through Work in British Literature, 1719-1809_. Dissertation. The Graduate Center, CUNY, 2018.
+* Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities research through the Spatial Analysis of historical travel writing and topographical literature." _Digital Humanities Quarterly_. Volume 11 Number 1 (2017). http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html
+* Presner, Todd S, David Shepard, and Yoh Kawano. Hypercities: Thick Mapping in the Digital Humanities. Cambridge, Massachusetts: Harvard University Press, 2014. (selections)
+* Piatti, Barbara; Bär, Hans Rudolf; Reuschel, Anne-Kathrin; Hurni, Lorenz; and Cartwright, William. "Mapping Literature: Towards a Geography of Fiction." _Cartography and Art_, Eds. Cartwright, William; Gartner, Georg F; and Lehn, Antje. http://www.literaturatlas.eu/files/2012/01/Piatti2008_ArtAndCartography_Springer.pdf
+* Monmonier, Mark S. _How to Lie with Maps_. Chicago : University of Chicago Press, 1996. (selections)
+* **PRAXIS ASSIGNMENT #2 (Choose 1 of 2)** create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
+
 
 **4/17 -- PEDAGOGY**
 * Digital Pedagogy in the Humanities (selections) - https://github.com/curateteaching/digitalpedagogy/tree/master/keywords
