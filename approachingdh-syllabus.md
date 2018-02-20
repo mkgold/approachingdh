@@ -94,7 +94,7 @@ Projects to Explore
 **2/20 -- No class (Monday schedule)**
 
 **2/27 -- EXPERIMENT -- text-mining**
-* Underwood, Ted. "A Genealogy of Distant Reading." _Digital Humanities Quarterly_. Volume 11 Number 2 (2017).
+* Underwood, Ted. "A Genealogy of Distant Reading." _Digital Humanities Quarterly_. Volume 11 Number 2 (2017). http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html 
 * Goldstone, Andrew and Underwood, Ted. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us.” _New Literary History_ 45.3 (2014): 359-84. https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2
 * Piper, Andrew. "Fictionality." _Journal of Cultural Analytics_. 20 December 2016. http://culturalanalytics.org/2016/12/fictionality/
 * Heuser, Ryan and Le-Khac, Long. "Learning to Read Data: Bringing out the Humanistic in the Digital Humanities" _Victorian Studies_. Volume 54, Number 1, Autumn 2011 pp. 79-86
